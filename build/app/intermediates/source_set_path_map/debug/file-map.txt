@@ -1,0 +1,36 @@
+com.prokit.beauty_master.app-appcompat-1.4.2-0 C:\Users\CodeDesk\.gradle\caches\transforms-3\23f34eb679aa78d319ba4cd6be929827\transformed\appcompat-1.4.2\res
+com.prokit.beauty_master.app-jetified-window-1.0.0-beta04-1 C:\Users\CodeDesk\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+com.prokit.beauty_master.app-jetified-appcompat-resources-1.4.2-2 C:\Users\CodeDesk\.gradle\caches\transforms-3\38a9a6cdcae139f766ff4a425b10d775\transformed\jetified-appcompat-resources-1.4.2\res
+com.prokit.beauty_master.app-jetified-startup-runtime-1.0.0-3 C:\Users\CodeDesk\.gradle\caches\transforms-3\51ebb132c7fa329ff7b390804f6d4148\transformed\jetified-startup-runtime-1.0.0\res
+com.prokit.beauty_master.app-jetified-savedstate-1.1.0-4 C:\Users\CodeDesk\.gradle\caches\transforms-3\5210929c6bf1b640a57ff02b8ff864f4\transformed\jetified-savedstate-1.1.0\res
+com.prokit.beauty_master.app-fragment-1.3.6-5 C:\Users\CodeDesk\.gradle\caches\transforms-3\86302acde65cdee925f535b0bf1f911d\transformed\fragment-1.3.6\res
+com.prokit.beauty_master.app-lifecycle-runtime-2.4.0-6 C:\Users\CodeDesk\.gradle\caches\transforms-3\8b0701ddf8e6425246b70e14fe9cd6cc\transformed\lifecycle-runtime-2.4.0\res
+com.prokit.beauty_master.app-jetified-annotation-experimental-1.3.0-7 C:\Users\CodeDesk\.gradle\caches\transforms-3\937d6edc8055f6701a18eeac1a67afe6\transformed\jetified-annotation-experimental-1.3.0\res
+com.prokit.beauty_master.app-jetified-emoji2-1.0.0-8 C:\Users\CodeDesk\.gradle\caches\transforms-3\a282641d604ecb4ae5332e32c2c94657\transformed\jetified-emoji2-1.0.0\res
+com.prokit.beauty_master.app-jetified-play-services-base-18.0.1-9 C:\Users\CodeDesk\.gradle\caches\transforms-3\aba8f806953ea3dd8f794da3aeb78a12\transformed\jetified-play-services-base-18.0.1\res
+com.prokit.beauty_master.app-jetified-window-java-1.0.0-beta04-10 C:\Users\CodeDesk\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+com.prokit.beauty_master.app-core-1.10.1-11 C:\Users\CodeDesk\.gradle\caches\transforms-3\c4988ff80110f75080a936fc6f044848\transformed\core-1.10.1\res
+com.prokit.beauty_master.app-jetified-emoji2-views-helper-1.0.0-12 C:\Users\CodeDesk\.gradle\caches\transforms-3\ce706fb8171f1e87b711ab97547bd840\transformed\jetified-emoji2-views-helper-1.0.0\res
+com.prokit.beauty_master.app-browser-1.5.0-13 C:\Users\CodeDesk\.gradle\caches\transforms-3\d12883dde0390e08dd2a1192741cec1b\transformed\browser-1.5.0\res
+com.prokit.beauty_master.app-lifecycle-viewmodel-2.3.1-14 C:\Users\CodeDesk\.gradle\caches\transforms-3\d486eee418567504419697de2b3eb487\transformed\lifecycle-viewmodel-2.3.1\res
+com.prokit.beauty_master.app-jetified-play-services-maps-18.1.0-15 C:\Users\CodeDesk\.gradle\caches\transforms-3\d7f7973f000d5c8945a05a4db1417b66\transformed\jetified-play-services-maps-18.1.0\res
+com.prokit.beauty_master.app-jetified-lifecycle-process-2.4.0-16 C:\Users\CodeDesk\.gradle\caches\transforms-3\f31cdfb213b879077c244df043816118\transformed\jetified-lifecycle-process-2.4.0\res
+com.prokit.beauty_master.app-jetified-play-services-basement-18.0.0-17 C:\Users\CodeDesk\.gradle\caches\transforms-3\f64fba6e6efbe26a4b67f791bcfc957f\transformed\jetified-play-services-basement-18.0.0\res
+com.prokit.beauty_master.app-debug-18 D:\Minor Project\beauty-princy\beauty-bold\android\app\src\debug\res
+com.prokit.beauty_master.app-main-19 D:\Minor Project\beauty-princy\beauty-bold\android\app\src\main\res
+com.prokit.beauty_master.app-pngs-20 D:\Minor Project\beauty-princy\beauty-bold\build\app\generated\res\pngs\debug
+com.prokit.beauty_master.app-resValues-21 D:\Minor Project\beauty-princy\beauty-bold\build\app\generated\res\resValues\debug
+com.prokit.beauty_master.app-rs-22 D:\Minor Project\beauty-princy\beauty-bold\build\app\generated\res\rs\debug
+com.prokit.beauty_master.app-mergeDebugResources-23 D:\Minor Project\beauty-princy\beauty-bold\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.prokit.beauty_master.app-mergeDebugResources-24 D:\Minor Project\beauty-princy\beauty-bold\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.prokit.beauty_master.app-merged_res-25 D:\Minor Project\beauty-princy\beauty-bold\build\app\intermediates\merged_res\debug
+com.prokit.beauty_master.app-packaged_res-26 D:\Minor Project\beauty-princy\beauty-bold\build\connectivity_plus\intermediates\packaged_res\debug
+com.prokit.beauty_master.app-packaged_res-27 D:\Minor Project\beauty-princy\beauty-bold\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug
+com.prokit.beauty_master.app-packaged_res-28 D:\Minor Project\beauty-princy\beauty-bold\build\fluttertoast\intermediates\packaged_res\debug
+com.prokit.beauty_master.app-packaged_res-29 D:\Minor Project\beauty-princy\beauty-bold\build\google_maps_flutter_android\intermediates\packaged_res\debug
+com.prokit.beauty_master.app-packaged_res-30 D:\Minor Project\beauty-princy\beauty-bold\build\nb_utils\intermediates\packaged_res\debug
+com.prokit.beauty_master.app-packaged_res-31 D:\Minor Project\beauty-princy\beauty-bold\build\package_info\intermediates\packaged_res\debug
+com.prokit.beauty_master.app-packaged_res-32 D:\Minor Project\beauty-princy\beauty-bold\build\path_provider_android\intermediates\packaged_res\debug
+com.prokit.beauty_master.app-packaged_res-33 D:\Minor Project\beauty-princy\beauty-bold\build\share\intermediates\packaged_res\debug
+com.prokit.beauty_master.app-packaged_res-34 D:\Minor Project\beauty-princy\beauty-bold\build\shared_preferences_android\intermediates\packaged_res\debug
+com.prokit.beauty_master.app-packaged_res-35 D:\Minor Project\beauty-princy\beauty-bold\build\url_launcher_android\intermediates\packaged_res\debug
